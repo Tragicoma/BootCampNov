@@ -1,0 +1,16 @@
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.exe
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.deps.json
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.runtimeconfig.json
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.runtimeconfig.dev.json
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\bin\Debug\net5.0\ref\StarterApp.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\bin\Debug\net5.0\StarterApp.pdb
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.csproj.AssemblyReference.cache
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.AssemblyInfoInputs.cache
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.AssemblyInfo.cs
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.csproj.CoreCompileInputs.cache
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\ref\StarterApp.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.pdb
+D:\Jauna mape\C#_Maaciibas\BootcampNov\First\StarterApp\StarterApp\obj\Debug\net5.0\StarterApp.genruntimeconfig.cache
