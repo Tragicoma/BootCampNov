@@ -1,0 +1,11 @@
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\bin\Debug\net5.0\Activity1.deps.json
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\bin\Debug\net5.0\Activity1.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\bin\Debug\net5.0\ref\Activity1.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\bin\Debug\net5.0\Activity1.pdb
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\obj\Debug\net5.0\Activity1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\obj\Debug\net5.0\Activity1.AssemblyInfoInputs.cache
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\obj\Debug\net5.0\Activity1.AssemblyInfo.cs
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\obj\Debug\net5.0\Activity1.csproj.CoreCompileInputs.cache
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\obj\Debug\net5.0\Activity1.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\obj\Debug\net5.0\ref\Activity1.dll
+D:\Jauna mape\C#_Maaciibas\BootcampNov\Activity1\Activity1\obj\Debug\net5.0\Activity1.pdb
